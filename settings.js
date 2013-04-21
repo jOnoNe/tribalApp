@@ -1,0 +1,3 @@
+//fixed settings
+var maxTiles = 10; //MAX AMOUNT OF FILMS TO BE DISPLAYED IN THE TILE INTERFACE
+var startUpFilm =0; //FILM TO PLAY/LOAD ON STARTUP
